@@ -85,3 +85,5 @@ Of course, manually entering these arcane patterns of bits (the ones and zeros) 
 And that has to be worth something in terms of job satisfaction.
 Each line of the previous program contains a single instruction. I could be written in English like this:
 
+
+
